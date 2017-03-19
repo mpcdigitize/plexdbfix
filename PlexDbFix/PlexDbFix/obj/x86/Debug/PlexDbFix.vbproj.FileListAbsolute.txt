@@ -14,3 +14,6 @@ h:\my documents\visual studio 2010\Projects\PlexDbFix\PlexDbFix\bin\Debug\PlexDb
 h:\my documents\visual studio 2010\Projects\PlexDbFix\PlexDbFix\obj\x86\Debug\PlexDbFix.vbprojResolveAssemblyReference.cache
 h:\my documents\visual studio 2010\Projects\PlexDbFix\PlexDbFix\obj\x86\Debug\PlexDbFix.exe.manifest
 h:\my documents\visual studio 2010\Projects\PlexDbFix\PlexDbFix\obj\x86\Debug\PlexDbFix.application
+H:\My Documents\GitHub\plexdbfix\PlexDbFix\PlexDbFix\obj\x86\Debug\PlexDbFix.exe
+H:\My Documents\GitHub\plexdbfix\PlexDbFix\PlexDbFix\obj\x86\Debug\PlexDbFix.xml
+H:\My Documents\GitHub\plexdbfix\PlexDbFix\PlexDbFix\obj\x86\Debug\PlexDbFix.pdb
